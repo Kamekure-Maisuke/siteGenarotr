@@ -65,3 +65,9 @@ root
 - サンプルとして、`intro.md`を作成する。
 - 中身を記述後、`sidebars.json`に、作成ファイルを設定。
 - `http://localhost:3000/docs/intro`にアクセス
+
+### 通常ページ作成手順
+
+- website/pages/en配下に、`.js`形式でファイルを新規作成して、配置する。
+- サンプルとして、`test.js`を作成する。
+- 中身を記述後、`http://localhost:3000/test`
